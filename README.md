@@ -6,3 +6,5 @@ Git勉強　ファイル更新
 
 
 fugafugaブランチで編集
+
+bbbbbbbbbbbbbbbbbbbb
